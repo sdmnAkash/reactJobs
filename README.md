@@ -11,7 +11,6 @@ Currently, two official plugins are available:
 # reactJobs
 This is a Front-end web application.
 
-Tools I used:
   #Front-end:
   
     React
