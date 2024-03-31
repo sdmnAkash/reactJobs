@@ -1,12 +1,14 @@
 # reactJobs
 This is a Front-end web application.
 
-Tools I used:
   #Front-end:
-    React library
-    Reaact Router Dom
+  
+    1. React library,
+    2. Reaact Router Dom
+    
   #Back-end:
-    Json Server
+  
+    1. Json Server
 
 Please follow the steps to visit reactJobs:
   ***MAKE SURE YOU HAVE NODE INSTALLED IN YOUR LOCAL MACHINE
